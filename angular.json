@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularclient"
+    }
+  },
+  "defaultProject": "angularclient",
+  "cli": {
+    "analytics": "6397eb47-27bd-496b-853c-d995bb12af43"
+  }
 }
